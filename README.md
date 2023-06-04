@@ -115,5 +115,15 @@ verified: true
 
 To run all tests:
 ```
-go test ./... -v
+Install
+
+$ git clone https://github.com/xiaozhao1234/distributed-anonymous-credential
+
+$ cd distributed-anonymous-credential
+
+$ cd cryptofun
+
+Test
+
+run Dcred.go
 ```
