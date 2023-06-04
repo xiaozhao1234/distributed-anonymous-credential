@@ -2,7 +2,7 @@
 
 The distributed anonymous credential scheme
 
-Our scheme is based on the open-source project [https://goreportcard.com/report/github.com/arnaucube/cryptofun]
+Our scheme is based on the open-source project [https://github.com/arnaucube/cryptofun]
 
 Implements pairing groups are based on the Barreto-Naehrig curve in python and the BLS-128 curve in golang for implementation, respectively with ubuntu
 
