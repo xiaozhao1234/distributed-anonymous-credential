@@ -121,7 +121,9 @@ $ git clone https://github.com/xiaozhao1234/distributed-anonymous-credential
 
 $ cd distributed-anonymous-credential
 
-$ cd cryptofun
+$ cd cryptofun-masterv2
+
+$ cd Dcred
 
 Test
 
