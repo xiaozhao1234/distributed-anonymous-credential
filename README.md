@@ -6,7 +6,7 @@ Our scheme is based on the open-source project [https://goreportcard.com/report/
 
 Implements pairing groups are based on the Barreto-Naehrig curve in python and the BLS-128 curve in golang for implementation, respectively with ubuntu
 
-The Waterbear BFT System project []
+The Waterbear BFT System project [https://github.com/fififish/waterbear]
 
 Crypto algorithms from scratch. Academic purposes only.
 
