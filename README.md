@@ -10,9 +10,9 @@ The Waterbear BFT System project [https://github.com/fififish/waterbear]
 
 Crypto algorithms from scratch. Academic purposes only.
 
-- [Dcred]
-- [MCred]
-- [Lcred]
+- [Dcred](https://github.com/xiaozhao1234/distributed-anonymous-credential/tree/main/cryptofun-masterv2/Dcred)
+- [MCred](https://github.com/xiaozhao1234/distributed-anonymous-credential/tree/main/cryptofun-masterv2/MCred)
+- [Lcred](https://github.com/xiaozhao1234/distributed-anonymous-credential/tree/main/cryptofun-masterv2/Lcred)
 - [ECC ElGamal](#ecc-elgamal)
 - [Bn128 pairing](#bn128)
 - [BLS signature](#bls)
